@@ -52,6 +52,18 @@ motto:      "Attack the system. Understand the system. Secure the system."
 
 ---
 
+### `> ls ~/certificates/`
+
+<!-- CERTS:START -->
+<p align="center"><em>Certificates coming soon…</em></p>
+<!-- CERTS:END -->
+
+<p align="right">
+  <a href="https://github.com/BytePhantom0606/BytePhantom0606/upload/main/certificates"><img src="https://img.shields.io/badge/%E2%86%91_Upload_certificate-0d1117?style=flat-square&logo=github&logoColor=22d3ee" alt="Upload certificate"/></a>
+</p>
+
+---
+
 ### `> ./stats.sh --user BytePhantom0606`
 
 <p align="center">
@@ -60,7 +72,7 @@ motto:      "Attack the system. Understand the system. Secure the system."
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BytePhantom0606&bg_color=0d1117&color=22d3ee&line=22d3ee&point=a855f7&area=true&area_color=22d3ee&hide_border=true&title_color=22d3ee" alt="activity"/>
+  <img width="95%" src="https://github-activity-graph.vercel.app/graph?username=BytePhantom0606&bg_color=0d1117&color=22d3ee&line=22d3ee&point=a855f7&area=true&area_color=22d3ee&hide_border=true&title_color=22d3ee" alt="activity"/>
 </p>
 
 ---
